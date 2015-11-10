@@ -1,0 +1,23 @@
+{
+    "name": "swipeup",
+    "version": "1.0.0",
+    "description": "swipe up iphone",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "mocha",
+        "start": "node server.js",
+        "build": "browserify src/main.js -o public/app.js"
+    },
+    "author": "ajbeach2@gmail.com",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.13.0",
+        "brim": "1.0.11",
+        "scream": "2.1.0"
+
+    },
+    "engines": {
+    "node": "0.10.x"
+  }
+
+}
