@@ -10,7 +10,7 @@ Go to localhost:3000
 ## Demo
 Open http://ajbeach2.github.io/swipeup/public/ on an IOS device
 
-
+## Code
 ```javascript
 var Scream = require('Scream');
 var Brim = require('Brim');
