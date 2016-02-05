@@ -39,8 +39,10 @@
 	background-image: url(/images/swipe_cancel.svg);
 }
 
-@media all and (orientation:portrait) {
+/*uncomment to disable in portrait or modify for portrait only*/
+
+/*@media all and (orientation:portrait) {
 	#brim-mask{
 		display: none !important;
 	}
-}
+}*/
