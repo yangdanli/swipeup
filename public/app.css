@@ -1,6 +1,6 @@
 #swipe-overlay {
 	transform:translateZ(1px);
-	background-image: url(/images/swipe_up_button.svg);
+	background-image: url(images/swipe_up_button.svg);
 	background-repeat: no-repeat;
 	background-size: 20%;
 	height:100%;
@@ -36,7 +36,7 @@
 	right: 1px;
 	visibility: visible;
 	width: 48px;
-	background-image: url(/images/swipe_cancel.svg);
+	background-image: url(images/swipe_cancel.svg);
 }
 
 /*uncomment to disable in portrait or modify for portrait only*/

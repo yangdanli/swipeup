@@ -17,7 +17,8 @@ brim = Brim({
 
 // Allows user to cancel swipeup
 var cancelButton = document.getElementById("swipe-cancel");
-document.addEventListener('click', function(e){
+cancelButton.addEventListener('click', function(e){
+  console.log('here')
   document.getElementById('brim-mask').className = 'mask-cancel';
 });
 
