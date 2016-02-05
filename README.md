@@ -1,10 +1,14 @@
 This uses [https://github.com/gajus/brim](https://github.com/gajus/brim) and [https://github.com/gajus/scream](https://github.com/gajus/scream) to implement a fullscreen gesture for iphones
 
+## To build and run locally
 1. npm install
 2. npm run-script build
 3. npm start
 
 Go to localhost:3000
+
+## Demo
+Open http://ajbeach2.github.io/swipeup/public/ on an IOS device
 
 
 ```javascript
